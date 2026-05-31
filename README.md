@@ -1,32 +1,40 @@
 # 🎓 Global Nexus
 
-Global Nexus is a modern and responsive educational website developed using **React.js**. The platform provides students, parents, and visitors with information about academic programs, campus facilities, student experiences, and contact details through an engaging and user-friendly interface.
+Global Nexus is a modern and responsive educational website developed using **React.js** and **Vite**. The platform provides students, parents, and visitors with information about academic programs, campus facilities, student experiences, and contact details through an engaging and user-friendly interface.
 
+---
+
+## 🚀 Live Demo
+
+🌐 **Live Website:** https://global-nexus-nu.vercel.app
+
+📂 **GitHub Repository:** https://github.com/SpurthiKongara/GlobalNexus
 
 ---
 
 ## 📌 Features
 
-- Responsive Navigation Bar
-- Interactive Hero Section
-- Academic Programs Showcase
-- About the Institution Section
-- Campus Gallery
-- Student Testimonials
-- Contact Form
-- Embedded Video Player
-- Mobile-Friendly Design
-- Smooth User Experience
+* Responsive Navigation Bar
+* Interactive Hero Section
+* Academic Programs Showcase
+* About the Institution Section
+* Campus Gallery
+* Student Testimonials
+* Contact Form
+* Embedded Video Player
+* Mobile-Friendly Design
+* Smooth User Experience
+* Modern Educational Website Layout
 
 ---
 
 ## 🛠️ Technologies Used
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Vite
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
 ---
 
@@ -55,6 +63,8 @@ src/
 
 The purpose of Global Nexus is to create a professional educational website that highlights academic programs, campus infrastructure, student experiences, and institutional information while demonstrating modern front-end development skills using React's component-based architecture.
 
+This project also serves as a portfolio project showcasing responsive web design, reusable React components, state management concepts, and modern deployment practices.
+
 ---
 
 ## 📸 Project Result
@@ -70,13 +80,13 @@ The purpose of Global Nexus is to create a professional educational website that
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SpurthiKongara/global-nexus.git
+git clone https://github.com/SpurthiKongara/GlobalNexus.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd global-nexus
+cd GlobalNexus
 ```
 
 ### Install Dependencies
@@ -97,31 +107,53 @@ npm run dev
 http://localhost:5173
 ```
 
+### Build for Production
+
+```bash
+npm run build
+```
+
 ---
 
 ## 📈 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
-- React Components
-- React Hooks (useState)
-- Responsive Web Design
-- Component-Based Architecture
-- Frontend Development
-- Website Deployment
-- Modern UI/UX Design
+* React Components
+* React Hooks (useState)
+* Component-Based Architecture
+* Responsive Web Design
+* Frontend Development
+* Modern UI/UX Design
+* Project Deployment using Vercel
+* Git & GitHub Version Control
+* Web Application Optimization
+
+---
+
+## 🌟 Future Enhancements
+
+* Backend Integration
+* Student Admission Portal
+* Authentication System
+* Dynamic Course Management
+* Online Inquiry System
+* Database Connectivity
+* Admin Dashboard
 
 ---
 
 ## 📞 Contact
 
-Feel free to connect with me for feedback, suggestions, or collaboration opportunities.
+Feel free to connect with me for feedback, suggestions, collaboration opportunities, or project discussions.
+
+**Developer:** Spurthi Kongara
 
 ---
 
 ## 📄 License
 
-This project is created for educational and portfolio purposes.
+This project is created for educational, learning, and portfolio purposes.
 
 ---
 
@@ -131,4 +163,4 @@ This project was developed as a learning project using React.js and customized f
 
 ### ❤️ Inspired by GreatStack
 
-Special thanks to GreatStack for providing high-quality React tutorials and learning resources that helped in building this project.
+Special thanks to GreatStack for providing high-quality React tutorials and learning resources that helped in building this project and strengthening my understanding of modern React development.
