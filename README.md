@@ -147,8 +147,6 @@ Through this project, I gained hands-on experience in:
 
 Feel free to connect with me for feedback, suggestions, collaboration opportunities, or project discussions.
 
-**Developer:** Spurthi Kongara
-
 ---
 
 ## 📄 License
